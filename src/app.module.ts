@@ -12,7 +12,7 @@ import { User } from './user/entities/user.entity';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'mehran@123456789',
+      password: '',
       database: 'hassandb',
       entities: [User],
       synchronize: true,
